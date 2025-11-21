@@ -10,4 +10,4 @@
 3. The notebook is ready to run in Google Colab, the first cells will take care of installing the required dependencies.
 
 ## Tests
-In ordeer to check the correctness of your implementation, you can run the test cells at the bottom of the notebook. They will validate your code against several test cases to check whether your implementation is correct or not.
+In order to check the correctness of your implementation, you can run the test cells at the bottom of the notebook. They will validate your code against several test cases to check whether your implementation is correct or not.
