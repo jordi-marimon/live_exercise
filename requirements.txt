@@ -1,0 +1,6 @@
+h3
+matplotlib
+contextily
+pandas
+pyarrow
+geopandas
